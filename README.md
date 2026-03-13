@@ -29,17 +29,6 @@ A project that summarizes large text documents using Natural Language Processing
 🔹 **Todo List Web App**  
 A simple CRUD web application built using **PHP, MySQL, and Bootstrap**.
 
----
-
-## 📊 GitHub Stats
-
-![Mohini's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohini-Kawale10&show_icons=true&theme=default)
-
----
-
-## 🔥 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohini-Kawale10&layout=compact)
 
 ---
 
@@ -55,7 +44,7 @@ A simple CRUD web application built using **PHP, MySQL, and Bootstrap**.
 ## 📫 Connect With Me
 
 📧 Email: mohinikawale11@gmail.com  
-💼 LinkedIn: linkedin.com/in/mohini-kawale-0133a82b5/ 
+💼 LinkedIn: https://www.linkedin.com/in/mohini-kawale-0133a82b5/
 
 ---
 
